@@ -1,0 +1,22 @@
+#containerClima  {
+    display: flex;
+    justify-content: center;
+    align-items: center
+
+}
+
+.sun, .mon , .tue, .wed, .thu, .fri , .sat{  
+    height: 15%;
+    width: 25%;
+    border: 5px solid black;
+    margin: 2%;
+}
+
+
+
+
+img {
+    height: 20%;
+    width: 20%;
+
+}
